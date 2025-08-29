@@ -3,7 +3,7 @@ import javax.swing.*;
 
 public class FirstDialog {
     public static void main(String[] args) {
-        JOptionPane.showMessageDialog(null, " Christopher John Entice");
+        JOptionPane.showMessageDialog(null, "First Dialog Java");
     }
     
 }
