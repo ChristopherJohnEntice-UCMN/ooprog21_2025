@@ -13,11 +13,11 @@ public class DebugSix1{
       System.out.print("Enter number of days >> ");
       days = keyboard.nextInt();
 
-      while(day <= days)
+      while(day < days)
       {
          money = 2 * money;
          day++;
-         System.out.println("After day " + days +
+         System.out.println("After day " + day +
             " you have " + money);
       }
    }
